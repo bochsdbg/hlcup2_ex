@@ -1,0 +1,6 @@
+%{
+  "bunch": {:hex, :bunch, "1.2.0", "f26c6c84e2e5e245620c73a0a4560ca91a75b25744012537e055426568916ab7", [:mix], [], "hexpm"},
+  "bundlex": {:hex, :bundlex, "0.2.7", "8f46199bf4cf84a60cdfc142edeafbab37040167acc35dda8aa70433f2ff8162", [:mix], [{:bunch, "~> 1.0", [hex: :bunch, repo: "hexpm", optional: false]}, {:qex, "~> 0.5", [hex: :qex, repo: "hexpm", optional: false]}, {:secure_random, "~> 0.5", [hex: :secure_random, repo: "hexpm", optional: false]}], "hexpm"},
+  "qex": {:hex, :qex, "0.5.0", "5a3a9becf67d4006377c4c247ffdaaa8ae5b3634a0caadb788dc24d6125068f4", [:mix], [], "hexpm"},
+  "secure_random": {:hex, :secure_random, "0.5.1", "c5532b37c89d175c328f5196a0c2a5680b15ebce3e654da37129a9fe40ebf51b", [:mix], [], "hexpm"},
+}
